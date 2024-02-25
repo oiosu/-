@@ -1,6 +1,6 @@
-/* eslint-disable react/jsx-no-undef */
+import React from "react";
 import "./App.css";
-import "./Components/MainPage/HomePage.jsx";
+import HomePage from "./Components/MainPage/HomePage.jsx";
 
 function App() {
   return (
